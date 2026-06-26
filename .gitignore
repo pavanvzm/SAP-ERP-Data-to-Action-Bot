@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# Backend
+*.db
+*.sqlite
+
+# Frontend
+node_modules/
+.next/
+out/
+
+# Logs
+*.log
+
+# Eval outputs
+evals/evaluation_report.json
+
+# OS
+.DS_Store
